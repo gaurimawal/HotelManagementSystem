@@ -67,6 +67,7 @@ Installation
    ```bash
    git clone <repository_url>
    cd HMS
+   cd frontend
    ```
 
 2. Install Frontend Dependencies:
