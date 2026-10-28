@@ -141,3 +141,4 @@ Backend Scripts (`/backend/package.json`)
 - `npm run seed`: Runs the script to insert seed data into the database.
 
 ---
+frontend deployed link : https://hotel-management-system-one-wheat.vercel.app/login
